@@ -3,6 +3,9 @@ ol{
     width: 250px;
     height: 100px;
     overflow: scroll;
+    background-color: saddlebrown;
+    font-size: 18px;
+    padding: 30px;
 }
 h3{
     font-style: italic;
@@ -19,6 +22,7 @@ h1{
     padding-top: 50px;
     font-size: 50px;
     text-align: center;
+    color: blue;
 }
 P{
     font-size: x-large;
@@ -28,7 +32,7 @@ a:link{
     text-decoration: none;
 
 }
-a: hoover{
+a:hover{
     text-decoration: underline;
     color: red;
 }
