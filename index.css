@@ -1,9 +1,11 @@
-li{
+ol{
     border: 1px solid brown;
+    width: 250px;
 }
 h3{
     font-style: italic;
 }
 body{
 background-color: gray;
+font-family: 'Times New Roman', Times, serif;
 }
