@@ -6,6 +6,7 @@ ol{
     background-color: saddlebrown;
     font-size: 18px;
     padding: 30px;
+    margin-left: 500px;
 }
 h3{
     font-style: italic;
@@ -35,4 +36,10 @@ a:link{
 a:hover{
     text-decoration: underline;
     color: red;
+}
+h4{
+ color: sienna;
+}
+span{
+    text-align: center;
 }
